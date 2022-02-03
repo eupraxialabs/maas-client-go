@@ -20,7 +20,7 @@ import (
 	"context"
 	"crypto/tls"
 	"fmt"
-	"github.com/spectrocloud/maas-client-go/maasclient/oauth1"
+	"gitlab.com/eupraxialabs/maas-client-go/maasclient/oauth1"
 	"io"
 	"net/http"
 	"net/url"
